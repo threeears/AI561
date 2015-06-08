@@ -1,0 +1,5 @@
+["implies",["and","A","B"],["or","C","D"]]
+["iff","A","B"]
+["iff",["and","A","B"],["or","C","D"]]
+["not",["iff","A","B"]]
+["not",["implies","A","B"]]

@@ -1,0 +1,65 @@
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i sampleExample.txt -s 2
+
+  01234
+0     T
+1 X   .
+2   XX.
+3  X ..
+4 A... 
+
+Path cost: 56
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i inputfile1.txt -s 2
+
+  01234567
+0 XXX XT..
+1 X   X  .
+2 X XX   .
+3 X X X  .
+4 X   XXX.
+5 XXX X X.
+6 XXX.....
+7 XXXAX   
+
+Path cost: 13
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i inputfile2.txt -s 2
+
+  01234
+0   ...
+1  .. .
+2  .X .
+3  .X .
+4  .AXT
+
+Path cost: 73
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i inputfile3.txt -s 2
+
+  01234
+0      
+1 .... 
+2 . X.T
+3 .    
+4 A XX 
+
+Path cost: 38
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i inputfile4.txt -s 2
+
+  0123
+0  T. 
+1  X..
+2 X X.
+3 ....
+4 A XX
+5 X  X
+
+Path cost: 60
+threeearss-MacBook-Air-2:HW1 threeears$ python searchPath.py -i inputfile5.txt -s 2
+
+  012345
+0     XA
+1  ... .
+2 X.X...
+3  .    
+4 T.XXX 
+5 X  X  
+
+Path cost: 60

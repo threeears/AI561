@@ -1,0 +1,3 @@
+Error list for my two algorithms:
+CNF_converter: 3, 5, 12, 24
+DPLL: 3, 9, 12, 15, 21, 23, 24

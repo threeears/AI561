@@ -1,0 +1,13 @@
+2 2
+diabites 3 0.13
+['thirst','overweight','blurredvision']
+[0.6,0.7,0.9]
+[0.2,0.3,0.015]
+chickenpox 4 0.17
+['fever','sorethroat','stomache','cough']
+[0.7,0.6,0.3,0.7]
+[0.2,0.1,0.1,0.2]
+['T','F','U']
+['T','U','F','U']
+['T','F','T']
+['F','U','T','T']
